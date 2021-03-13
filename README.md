@@ -3,7 +3,7 @@
 I am **Yugyeong**, a Software Engineer based in San Francisco. I enjoy turning complex problems into simple and intuitive applications and occasionally designing!
 
 
-## Technologies 
+### 💡Technologies 
 JavaScript, React, Node, HTML, CSS, SCSS, MongoDB, MySQL, AdobeXD, Figma, Three.js, Blender
 ____________
 
@@ -19,7 +19,6 @@ ____________
   <img align="left" alt="Yugyeong's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a> 
 
- Website : [https://yugyeonglee.com/](https://yugyeonglee.com)
 
 <!--
 **YGLEE1993/YGLEE1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
