@@ -1,4 +1,4 @@
-## Hi there!
+## Hi there 👋🏻
 
 I am **Yugyeong**, a Software Engineer based in San Francisco. I enjoy turning complex problems into simple and intuitive applications and occasionally designing!
 
