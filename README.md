@@ -5,7 +5,7 @@ I am **Yugyeong**, a Software Engineer based in San Francisco. I enjoy turning c
 
 ### Technologies💡 
 JavaScript, React, Node, HTML, CSS, SCSS, MongoDB, MySQL, AdobeXD, Figma, Three.js, Blender
-____________
+
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yugyeonglee93@gmail.com">
   <img align="left" alt="Yugyeong's Email" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
